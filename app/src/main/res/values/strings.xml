@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyView</string>
+    <!--bottom bar-->
+    <string name="str_firstview">First</string>
+    <string name="str_secondview">Second</string>
+    <string name="str_thirdview">Third</string>
+</resources>
